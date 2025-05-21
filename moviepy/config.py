@@ -1,5 +1,6 @@
 """Third party programs configuration for MoviePy."""
 
+import utils.session
 import os
 import subprocess as sp
 from pathlib import Path
