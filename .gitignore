@@ -9,7 +9,6 @@
 .project
 .pydevproject
 .sublime-project
-.vscode
 
 # Python dev tooling
 .mr.developer.cfg
@@ -62,3 +61,5 @@ docs/build/
 
 # Publishing
 .pypirc
+config.bat
+node_modules
